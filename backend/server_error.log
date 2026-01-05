@@ -1,0 +1,22 @@
+2025-12-22T05:02:41.766Z - ENOENT: no such file or directory, open 'D:\Project-reactnative\backend\uploads\imageUrl-1766379761763.jpg'
+Error: ENOENT: no such file or directory, open 'D:\Project-reactnative\backend\uploads\imageUrl-1766379761763.jpg'
+
+2025-12-22T05:02:45.711Z - ENOENT: no such file or directory, open 'D:\Project-reactnative\backend\uploads\imageUrl-1766379765710.jpg'
+Error: ENOENT: no such file or directory, open 'D:\Project-reactnative\backend\uploads\imageUrl-1766379765710.jpg'
+
+2025-12-22T05:03:12.134Z - ENOENT: no such file or directory, open 'D:\Project-reactnative\backend\uploads\profileImage-1766379792133.jpg'
+Error: ENOENT: no such file or directory, open 'D:\Project-reactnative\backend\uploads\profileImage-1766379792133.jpg'
+
+2025-12-22T06:00:47.497Z - Unexpected token 'A', "Authorizat"... is not valid JSON
+SyntaxError: Unexpected token 'A', "Authorizat"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Project-reactnative\backend\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Project-reactnative\backend\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Project-reactnative\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at invokeCallback (D:\Project-reactnative\backend\node_modules\raw-body\index.js:238:16)
+    at done (D:\Project-reactnative\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Project-reactnative\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+
